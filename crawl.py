@@ -18,13 +18,11 @@ class StatCrawler:
         # Scrape page into an array and return it
         self.playerStats = helpers.getPlayerStatsArray(html)
 
-    # Prints the stats of previously retrieved player
-    def printStats(self):
+    # Returns a reddit-formatted string of the player's stats
+    def prettify(self):
 
         if not self.playerStats:
             return
 
-        printString = helpers.getRedditString(self.playerStats)
-
-        print(printString)
+        return helpers.getRedditString(self.playerStats)
 
