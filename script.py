@@ -12,12 +12,15 @@ subreddit = reddit.subreddit("pythonforengineers")
 crawler = StatCrawler()
 parser = CommentParser("players.txt")
 
-for comment in subreddit.stream.comments():
-    name = parser.getPlayerName(comment.body)
+#for comment in subreddit.stream.comments():
+for comment in ["[Chris Paul stats]", "[Michael Jordan stats]"]:
+    #name = parser.getPlayerName(comment.body)
+    name = parser.getPlayerName(comment)
 
     if name:
         crawler.getStats(name)
-        comment.reply(crawler.prettify())
+        print(crawler.prettify())
+        #comment.reply(crawler.prettify())
 
 
         

@@ -16,13 +16,13 @@ class CommentParser:
     def getPlayerName(self, comment):
 
         # There was a matching pattern of "first last's stats", so see if name exists in database
-        if re.search("[a-za-z_.'-]+\s[a-za-z_.'-]+'s\sstats", comment, re.IGNORECASE):
+        if re.search("\[[a-zA-Z_.'-]+\s[a-zA-Z_.'-]+\sstats\]", comment, re.IGNORECASE):
 
             # Get the matching pattern
-            match = re.search("[a-za-z_.'-]+\s[a-za-z_.'-]+'s\sstats", comment, re.IGNORECASE).group(0)
+            match = re.search("\[[a-zA-Z_.'-]+\s[a-zA-Z_.'-]+\sstats\]", comment, re.IGNORECASE).group(0)
 
             # Parse the name from the matching pattern
-            name = match[:-8].lower()
+            name = match[1:-7].lower()
 
             # Check to see if name exists in players list
             if name in self.players:

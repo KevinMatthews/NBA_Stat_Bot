@@ -1,6 +1,6 @@
 Alaa Abdelnaby
 Zaid Abdul-Aziz
-Kareem Abdul-Jabbar*
+Kareem Abdul-Jabbar
 Mahmoud Abdul-Rauf
 Tariq Abdul-Wahad
 Shareef Abdur-Rahim
@@ -109,11 +109,11 @@ Keith Appling
 Rafael Araujo
 Stacey Arceneaux
 Robert Archibald
-Tiny Archibald*
+Tiny Archibald
 Jim Ard
 Gilbert Arenas
 Trevor Ariza
-Paul Arizin*
+Paul Arizin
 Joe Arlauckas
 B.J. Armstrong
 Bob Armstrong
@@ -186,9 +186,9 @@ J.J. Barea
 Andrea Bargnani
 Cliff Barker
 Tom Barker
-Charles Barkley*
+Charles Barkley
 Erick Barkley
-Don Barksdale*
+Don Barksdale
 Harrison Barnes
 Harry Barnes
 Jim Barnes
@@ -211,7 +211,7 @@ Dana Barros
 Brent Barry
 Drew Barry
 Jon Barry
-Rick Barry*
+Rick Barry
 Ed Bartels
 Vic Bartolome
 Will Barton
@@ -235,7 +235,7 @@ Johnny Baum
 Frankie Baumholtz
 Lonny Baxter
 Jerryd Bayless
-Elgin Baylor*
+Elgin Baylor
 Howard Bayne
 Aron Baynes
 Sergei Bazarevich
@@ -250,7 +250,7 @@ Jerome Beasley
 John Beasley
 Malik Beasley
 Michael Beasley
-Zelmo Beaty*
+Zelmo Beaty
 Rodrigue Beaubois
 Byron Beck
 Corey Beck
@@ -268,7 +268,7 @@ Dennis Bell
 Raja Bell
 Troy Bell
 Whitey Bell
-Walt Bellamy*
+Walt Bellamy
 DeAndre' Bembry
 Irv Bemoras
 Leon Benbow
@@ -309,10 +309,10 @@ Don Bielke
 Bob Bigelow
 Lionel Billingy
 Chauncey Billups
-Dave Bing*
+Dave Bing
 Joe Binion
 Jerry Bird
-Larry Bird*
+Larry Bird
 Otis Birdsong
 Gale Bishop
 Bismack Biyombo
@@ -408,7 +408,7 @@ Alex Bradley
 Alonzo Bradley
 Avery Bradley
 Bill Bradley
-Bill Bradley*
+Bill Bradley
 Charles Bradley
 Dudley Bradley
 Jim Bradley
@@ -483,7 +483,7 @@ Jaylen Brown
 John Brown
 Kedrick Brown
 Kwame Brown
-Larry Brown*
+Larry Brown
 Leon Brown
 Lewis Brown
 Lorenzo Brown
@@ -495,7 +495,7 @@ P.J. Brown
 Randy Brown
 Raymond Brown
 Rickey Brown
-Roger Brown*
+Roger Brown
 Roger Brown
 Shannon Brown
 Stan Brown
@@ -647,11 +647,11 @@ Duane Causwell
 Ron Cavenall
 Cedric Ceballos
 John Celestand
-Al Cervi*
+Al Cervi
 Lionel Chalmers
 Mario Chalmers
 Bill Chamberlain
-Wilt Chamberlain*
+Wilt Chamberlain
 Jerry Chambers
 Tom Chambers
 Mike Champion
@@ -701,7 +701,7 @@ Speedy Claxton
 Jim Cleamons
 Mateen Cleaves
 Barry Clemens
-Nat Clifton*
+Nat Clifton
 Bill Closs
 Keith Closs
 Paul Cloyd
@@ -785,9 +785,9 @@ Steve Courtin
 Joe Courtney
 Marcus Cousin
 DeMarcus Cousins
-Bob Cousy*
+Bob Cousy
 Robert Covington
-Dave Cowens*
+Dave Cowens
 Chubby Cox
 Johnny Cox
 Wesley Cox
@@ -823,7 +823,7 @@ Al Cueto
 Pat Cummings
 Terry Cummings
 Vonteego Cummings
-Billy Cunningham*
+Billy Cunningham
 Dante Cunningham
 Dick Cunningham
 Jared Cunningham
@@ -847,16 +847,16 @@ Quintin Dailey
 Samuel Dalembert
 Howie Dallmar
 Erick Dampier
-Louie Dampier*
+Louie Dampier
 Bob Dandridge
 Antonio Daniels
 Erik Daniels
 Lloyd Daniels
 Marquis Daniels
-Mel Daniels*
+Mel Daniels
 Troy Daniels
 Sasha Danilovic
-Adrian Dantley*
+Adrian Dantley
 Pete Darcey
 Jimmy Darden
 Ollie Darden
@@ -869,7 +869,7 @@ Brad Daugherty
 Mack Daughtry
 Kornel David
 Jermareo Davidson
-Bob Davies*
+Bob Davies
 Brandon Davies
 Anthony Davis
 Antonio Davis
@@ -925,7 +925,7 @@ Darren Daye
 Nando De Colo
 Greg Deane
 Billy DeAngelis
-Dave DeBusschere*
+Dave DeBusschere
 Andrew DeClercq
 Dewayne Dedmon
 Don Dee
@@ -1024,7 +1024,7 @@ Bryce Drew
 John Drew
 Larry Drew
 Larry Drew
-Clyde Drexler*
+Clyde Drexler
 Nate Driggers
 Terry Driscoll
 Predrag Drobnjak
@@ -1041,7 +1041,7 @@ Bob Duffy
 Chris Duhon
 Duje Dukan
 Walter Dukes
-Joe Dumars*
+Joe Dumars
 Rich Dumas
 Richard Dumas
 Tony Dumas
@@ -1125,13 +1125,13 @@ Francisco Elson
 Darrell Elston
 Melvin Ely
 Joel Embiid
-Wayne Embry*
+Wayne Embry
 Andre Emmett
 Ned Endress
 Chris Engler
 Wayne Englestad
 A.J. English
-Alex English*
+Alex English
 Claude English
 Jo Jo English
 Kim English
@@ -1143,7 +1143,7 @@ Ray Epps
 Semih Erden
 Bo Erias
 Keith Erickson
-Julius Erving*
+Julius Erving
 Evan Eschmeyer
 Jack Eskridge
 Vincenzo Esposito
@@ -1157,7 +1157,7 @@ Mike Evans
 Reggie Evans
 Tyreke Evans
 Daniel Ewing
-Patrick Ewing*
+Patrick Ewing
 Patrick Ewing
 Dante Exum
 Christian Eyenga
@@ -1275,7 +1275,7 @@ Jamaal Franklin
 William Franklin
 Ronald Franz
 Tim Frazier
-Walt Frazier*
+Walt Frazier
 Will Frazier
 Anthony Frederick
 Jimmer Fredette
@@ -1293,7 +1293,7 @@ Channing Frye
 Bernie Fryer
 Frank Fucarino
 Herm Fuetsch
-Joe Fulks*
+Joe Fulks
 Carl Fuller
 Hiram Fuller
 Todd Fuller
@@ -1311,7 +1311,7 @@ Reece Gaines
 Sundiata Gaines
 Mike Gale
 Chad Gallagher
-Harry Gallatin*
+Harry Gallatin
 Danilo Gallinari
 Langston Galloway
 Dave Gambee
@@ -1366,7 +1366,7 @@ Tate George
 Marcus Georges-Hunt
 Gus Gerard
 Derrick Gervin
-George Gervin*
+George Gervin
 Gorham Getchell
 John Gianelli
 Dick Gibbs
@@ -1386,7 +1386,7 @@ Jack Gillespie
 Gene Gillette
 Armen Gilliam
 Herm Gilliam
-Artis Gilmore*
+Artis Gilmore
 Walt Gilmore
 Chuck Gilmur
 Manu Ginobili
@@ -1404,14 +1404,14 @@ Andreas Glyniadakis
 Mike Gminski
 Rudy Gobert
 Dan Godfread
-Tom Gola*
+Tom Gola
 Ben Goldfaden
 Anthony Goldwire
 Ryan Gomes
 Glen Gondrezick
 Grant Gondrezick
 Drew Gooden
-Gail Goodrich*
+Gail Goodrich
 Steve Goodrich
 Archie Goodwin
 Pop Goodwin
@@ -1491,7 +1491,7 @@ Donte Greene
 Orien Greene
 Jerry Greenspan
 Dave Greenwood
-Hal Greer*
+Hal Greer
 Lynn Greer
 Gary Gregor
 Claude Gregory
@@ -1519,7 +1519,7 @@ Anthony Grundy
 Ernie Grunfeld
 Gene Guarilia
 Petur Gudmundsson
-Richie Guerin*
+Richie Guerin
 Tom Gugliotta
 Andres Guibert
 Jay Guidinger
@@ -1534,7 +1534,7 @@ Rudy Hackett
 Hamed Haddadi
 Jim Hadnot
 Scott Haffner
-Cliff Hagan*
+Cliff Hagan
 Glenn Hagan
 Tom Hagan
 Robert Hahn
@@ -1575,7 +1575,7 @@ Darrin Hancock
 Ben Handlogten
 Cecil Hankins
 Phil Hankinson
-Alex Hannum*
+Alex Hannum
 Don Hanrahan
 Rollen Hans
 Ben Hansbrough
@@ -1645,10 +1645,10 @@ Joe Hassett
 Scott Hastings
 Kirk Haston
 Vern Hatton
-John Havlicek*
+John Havlicek
 Spencer Hawes
 Steve Hawes
-Connie Hawkins*
+Connie Hawkins
 Hersey Hawkins
 Juaquin Hawkins
 Marshall Hawkins
@@ -1657,14 +1657,14 @@ Robert Hawkins
 Tom Hawkins
 Nate Hawthorne
 Chuck Hayes
-Elvin Hayes*
+Elvin Hayes
 Jarvis Hayes
 Jim Hayes
 Steve Hayes
 Gordon Hayward
 Lazar Hayward
 Brendan Haywood
-Spencer Haywood*
+Spencer Haywood
 John Hazen
 Walt Hazzard
 Luther Head
@@ -1673,7 +1673,7 @@ Brian Heaney
 Gar Heard
 Herm Hedderick
 Alvin Heggs
-Tom Heinsohn*
+Tom Heinsohn
 Dick Hemric
 Alan Henderson
 Cedric Henderson
@@ -1773,7 +1773,7 @@ A.W. Holt
 Mike Holton
 Dick Holub
 Joe Holup
-Red Holzman*
+Red Holzman
 Jerald Honeycutt
 Tyler Honeycutt
 Derek Hood
@@ -1795,7 +1795,7 @@ Dennis Horner
 Robert Horry
 Ed Horton
 Bill Hosket
-Bob Houbregs*
+Bob Houbregs
 Danuel House
 Eddie House
 Allan Houston
@@ -1809,7 +1809,7 @@ Juwan Howard
 Mo Howard
 Otis Howard
 Stephen Howard
-Bailey Howell*
+Bailey Howell
 Bob Hubbard
 Phil Hubbard
 Lester Hudson
@@ -1861,9 +1861,9 @@ Ervin Inniger
 Byron Irvin
 George Irvine
 Kyrie Irving
-Dan Issel*
+Dan Issel
 Mike Iuzzolino
-Allen Iverson*
+Allen Iverson
 Willie Iverson
 Royal Ivey
 Elvin Ivory
@@ -1886,7 +1886,7 @@ Mervin Jackson
 Michael Jackson
 Mike Jackson
 Myron Jackson
-Phil Jackson*
+Phil Jackson
 Pierre Jackson
 Ralph Jackson
 Randell Jackson
@@ -1920,7 +1920,7 @@ Tony Jaros
 Jim Jarvis
 Sarunas Jasikevicius
 Nathan Jawai
-Buddy Jeannette*
+Buddy Jeannette
 Abdul Jeelani
 Chris Jefferies
 Othyus Jeffers
@@ -1961,7 +1961,7 @@ Clemon Johnson
 Darryl Johnson
 Dave Johnson
 DeMarco Johnson
-Dennis Johnson*
+Dennis Johnson
 DerMarr Johnson
 Ed Johnson
 Eddie Johnson
@@ -1972,7 +1972,7 @@ Frank Johnson
 George Johnson
 George Johnson
 George Johnson
-Gus Johnson*
+Gus Johnson
 Harold Johnson
 Ivan Johnson
 JaJuan Johnson
@@ -1987,7 +1987,7 @@ Larry Johnson
 Larry Johnson
 Lee Johnson
 Linton Johnson
-Magic Johnson*
+Magic Johnson
 Marques Johnson
 Mickey Johnson
 Neil Johnson
@@ -2008,7 +2008,7 @@ Vinnie Johnson
 Wesley Johnson
 Darius Johnson-Odom
 Nate Johnston
-Neil Johnston*
+Neil Johnston
 Jim Johnstone
 Nikola Jokic
 Howie Jolliff
@@ -2042,7 +2042,7 @@ James Jones
 Jimmy Jones
 Johnny Jones
 Jumaine Jones
-K.C. Jones*
+K.C. Jones
 Kevin Jones
 Larry Jones
 Major Jones
@@ -2054,7 +2054,7 @@ Perry Jones
 Popeye Jones
 Rich Jones
 Robin Jones
-Sam Jones*
+Sam Jones
 Shelton Jones
 Solomon Jones
 Steve Jones
@@ -2069,7 +2069,7 @@ Charles Jordan
 DeAndre Jordan
 Eddie Jordan
 Jerome Jordan
-Michael Jordan*
+Michael Jordan
 Reggie Jordan
 Thomas Jordan
 Walter Jordan
@@ -2151,7 +2151,7 @@ Bo Kimble
 Stan Kimbrough
 Chad Kinch
 Albert King
-Bernard King*
+Bernard King
 Chris King
 Dan King
 Frankie King
@@ -2272,7 +2272,7 @@ James Lang
 Trajan Langdon
 Keith Langford
 Dan Langhi
-Bob Lanier*
+Bob Lanier
 Stu Lantz
 Nicolas Laprovittola
 York Larese
@@ -2328,7 +2328,7 @@ Leary Lentz
 Gary Leonard
 Kawhi Leonard
 Meyers Leonard
-Slick Leonard*
+Slick Leonard
 Jim Les
 Travis Leslie
 Ronnie Lester
@@ -2367,7 +2367,7 @@ Ron Livingstone
 Horacio Llamas Grey
 Bobby Lloyd
 Chuck Lloyd
-Earl Lloyd*
+Earl Lloyd
 Lewis Lloyd
 Scott Lloyd
 Riney Lochmann
@@ -2399,12 +2399,12 @@ Kevin Loughery
 Bob Love
 Kevin Love
 Stan Love
-Clyde Lovellette*
+Clyde Lovellette
 Sidney Lowe
 Charlie Lowery
 Kyle Lowry
 Al Lucas
-Jerry Lucas*
+Jerry Lucas
 John Lucas
 Kalin Lucas
 Maurice Lucas
@@ -2424,7 +2424,7 @@ Lonnie Lynn
 Mike Lynn
 Sheldon Mac
 Mike Macaluso
-Ed Macauley*
+Ed Macauley
 Todd MacCulloch
 Ronnie MacGilvray
 Scott Machado
@@ -2458,8 +2458,8 @@ Renaldo Major
 Thon Maker
 Lionel Malamed
 Jeff Malone
-Karl Malone*
-Moses Malone*
+Karl Malone
+Moses Malone
 Matt Maloney
 Steve Malovic
 Mike Maloy
@@ -2472,12 +2472,12 @@ Guy Manning
 Rich Manning
 Pace Mannion
 Nick Mantis
-Pete Maravich*
+Pete Maravich
 Press Maravich
 Devyn Marble
 Roy Marble
 Stephon Marbury
-Sarunas Marciulionis*
+Sarunas Marciulionis
 Saul Mariaschin
 Jack Marin
 Shawn Marion
@@ -2509,7 +2509,7 @@ Kevin Martin
 LaRue Martin
 Maurice Martin
 Phil Martin
-Slater Martin*
+Slater Martin
 Whitey Martin
 Jamal Mashburn
 Al Masino
@@ -2539,7 +2539,7 @@ O.J. Mayo
 Travis Mays
 Matt Mazza
 Luc Mbah a Moute
-Bob McAdoo*
+Bob McAdoo
 James Michael McAdoo
 Ken McBride
 Ray McCallum
@@ -2593,17 +2593,17 @@ Mitch McGary
 JaVale McGee
 Mike McGee
 Bill McGill
-George McGinnis*
+George McGinnis
 Jon McGlocklin
-Tracy McGrady*
+Tracy McGrady
 Gil McGregor
 Elton McGriff
 Rodney McGruder
-Alfred McGuire*
+Alfred McGuire
 Allie McGuire
-Dick McGuire*
+Dick McGuire
 Dominic McGuire
-Kevin McHale*
+Kevin McHale
 Maurice McHartley
 Jim McIlvaine
 Jeff McInnis
@@ -2679,9 +2679,9 @@ Khris Middleton
 Red Mihalik
 Chris Mihm
 Ed Mikan
-George Mikan*
+George Mikan
 Larry Mikan
-Vern Mikkelsen*
+Vern Mikkelsen
 Al Miksis
 Aaron Miles
 C.J. Miles
@@ -2704,7 +2704,7 @@ Larry Miller
 Mike Miller
 Oliver Miller
 Quincy Miller
-Reggie Miller*
+Reggie Miller
 Walt Miller
 Chris Mills
 John Mills
@@ -2713,7 +2713,7 @@ Terry Mills
 Elijah Millsap
 Paul Millsap
 Harold Miner
-Yao Ming*
+Yao Ming
 Dirk Minniefield
 Dave Minor
 Greg Minor
@@ -2743,7 +2743,7 @@ Wayne Molis
 Sidney Moncrief
 Eric Money
 Sergei Monia
-Earl Monroe*
+Earl Monroe
 Greg Monroe
 Rodney Monroe
 Luis Montero
@@ -2792,7 +2792,7 @@ Donatas Motiejunas
 Hanno Mottola
 Arnett Moultrie
 Rick Mount
-Alonzo Mourning*
+Alonzo Mourning
 Timofey Mozgov
 Chuck Mrazovich
 Emmanuel Mudiay
@@ -2801,7 +2801,7 @@ Shabazz Muhammad
 Joe Mullaney
 Bob Mullens
 Byron Mullens
-Chris Mullin*
+Chris Mullin
 Jeff Mullins
 Todd Mundt
 Xavier Munford
@@ -2810,7 +2810,7 @@ George Munroe
 Eric Murdock
 Gheorghe Muresan
 Allen Murphy
-Calvin Murphy*
+Calvin Murphy
 Dick Murphy
 Erik Murphy
 Jay Murphy
@@ -2831,7 +2831,7 @@ Toure' Murry
 Mike Muscala
 Angelo Musi
 Jerrod Mustaf
-Dikembe Mutombo*
+Dikembe Mutombo
 Martin Muursepp
 Pete Myers
 Hamady N'Diaye
@@ -2868,7 +2868,7 @@ Nemanja Nedovic
 Al Negratti
 Barry Nelson
 DeMarcus Nelson
-Don Nelson*
+Don Nelson
 Jameer Nelson
 Louie Nelson
 Ron Nelson
@@ -2949,7 +2949,7 @@ Tommy O'Keefe
 Mike O'Koren
 Grady O'Malley
 Jermaine O'Neal
-Shaquille O'Neal*
+Shaquille O'Neal
 Mike O'Neill
 Kyle O'Quinn
 Kevin O'Shea
@@ -2969,7 +2969,7 @@ Emeka Okafor
 Jahlil Okafor
 Mehmet Okur
 Victor Oladipo
-Hakeem Olajuwon*
+Hakeem Olajuwon
 Mark Olberding
 Jawann Oldham
 John Oldham
@@ -3032,7 +3032,7 @@ Kostas Papanikolaou
 Jannero Pargo
 Jeremy Pargo
 Easy Parham
-Robert Parish*
+Robert Parish
 Med Park
 Anthony Parker
 Jabari Parker
@@ -3075,7 +3075,7 @@ Cameron Payne
 Kenny Payne
 Tom Payne
 Elfrid Payton
-Gary Payton*
+Gary Payton
 Gary Payton
 Mel Payton
 George Pearcy
@@ -3113,16 +3113,16 @@ Mel Peterson
 Morris Peterson
 Geoff Petrie
 Johan Petro
-Drazen Petrovic*
+Drazen Petrovic
 Richard Petruska
-Bob Pettit*
+Bob Pettit
 Jerry Pettway
 Roger Phegley
 Jack Phelan
 James Phelan
 Derrick Phelps
 Michael Phelps
-Andy Phillip*
+Andy Phillip
 Eddie Phillips
 Gary Phillips
 Gene Phillips
@@ -3139,7 +3139,7 @@ Kevinn Pinkney
 John Pinone
 Dave Piontek
 Tom Piotrowski
-Scottie Pippen*
+Scottie Pippen
 Charles Pittman
 Dexter Pittman
 Zoran Planinic
@@ -3151,7 +3151,7 @@ Gary Plummer
 Pavel Podkolzin
 Jakob Poeltl
 Dwayne Polee
-Jim Pollard*
+Jim Pollard
 Scot Pollard
 Ralph Polson
 Olden Polynice
@@ -3230,7 +3230,7 @@ Igor Rakocevic
 Kurt Rambis
 Peter John Ramos
 Cal Ramsey
-Frank Ramsey*
+Frank Ramsey
 Ray Ramsey
 Mark Randall
 Chasson Randle
@@ -3268,7 +3268,7 @@ Hub Reed
 Justin Reed
 Ron Reed
 Willie Reed
-Willis Reed*
+Willis Reed
 Bryant Reeves
 Khalid Reeves
 Richie Regan
@@ -3305,7 +3305,7 @@ Micheal Ray Richardson
 Norm Richardson
 Pooh Richardson
 Quentin Richardson
-Mitch Richmond*
+Mitch Richmond
 John Richter
 Dick Ricketts
 Isaiah Rider
@@ -3318,11 +3318,11 @@ Antoine Rigaudeau
 Tom Riker
 Bob Riley
 Eric Riley
-Pat Riley*
+Pat Riley
 Ron Riley
 Rich Rinaldi
 Mike Riordan
-Arnie Risen*
+Arnie Risen
 Tex Ritter
 Ramon Rivas
 Austin Rivers
@@ -3343,7 +3343,7 @@ Lawrence Roberts
 Marv Roberts
 Stanley Roberts
 Alvin Robertson
-Oscar Robertson*
+Oscar Robertson
 Ryan Robertson
 Tony Robertson
 Rick Robey
@@ -3351,7 +3351,7 @@ Bernard Robinson
 Chris Robinson
 Cliff Robinson
 Clifford Robinson
-David Robinson*
+David Robinson
 Eddie Robinson
 Flynn Robinson
 Glenn Robinson
@@ -3375,8 +3375,8 @@ Red Rocha
 John Roche
 Gene Rock
 Jack Rocker
-Guy Rodgers*
-Dennis Rodman*
+Guy Rodgers
+Dennis Rodman
 Sergio Rodriguez
 Lou Roe
 Carlos Rogers
@@ -3438,7 +3438,7 @@ Jerry Rullo
 Stefano Rusconi
 Brandon Rush
 Kareem Rush
-Bill Russell*
+Bill Russell
 Bryon Russell
 Campy Russell
 Cazzie Russell
@@ -3448,7 +3448,7 @@ Pierre Russell
 Rubin Russell
 Walker Russell
 Walker Russell
-Arvydas Sabonis*
+Arvydas Sabonis
 Domantas Sabonis
 Robert Sacre
 Ed Sadowski
@@ -3461,7 +3461,7 @@ Soumaila Samake
 Cheikh Samb
 JaKarr Sampson
 Jamal Sampson
-Ralph Sampson*
+Ralph Sampson
 Samardo Samuels
 Pepe Sanchez
 Al Sanders
@@ -3470,7 +3470,7 @@ Jeff Sanders
 Larry Sanders
 Melvin Sanders
 Mike Sanders
-Tom Sanders*
+Tom Sanders
 Ron Sanford
 Daniel Santiago
 Bob Santini
@@ -3499,7 +3499,7 @@ Ben Scharnus
 Marv Schatzman
 Fred Schaus
 Danny Schayes
-Dolph Schayes*
+Dolph Schayes
 Ossie Schectman
 Steve Scheffler
 Tom Scheffler
@@ -3568,7 +3568,7 @@ God Shammgod
 Earl Shannon
 Howie Shannon
 Chuck Share
-Bill Sharman*
+Bill Sharman
 Walter Sharpe
 John Shasky
 Ron Shavlik
@@ -3643,7 +3643,7 @@ Jim Slaughter
 Jose Slaughter
 Tamar Slay
 Donald Sloan
-Jerry Sloan*
+Jerry Sloan
 Uros Slokar
 Tom Sluby
 Keith Smart
@@ -3785,12 +3785,12 @@ Sam Stith
 Tom Stith
 Alex Stivrins
 David Stockton
-John Stockton*
+John Stockton
 Peja Stojakovic
 Ed Stokes
 Greg Stokes
 Jarnell Stokes
-Maurice Stokes*
+Maurice Stokes
 Art Stolkey
 Randy Stoll
 Diamond Stone
@@ -3897,7 +3897,7 @@ Charles Thomas
 Etan Thomas
 Irving Thomas
 Isaiah Thomas
-Isiah Thomas*
+Isiah Thomas
 Jamel Thomas
 James Thomas
 Jim Thomas
@@ -3917,13 +3917,13 @@ Bernard Thompson
 Billy Thompson
 Brooks Thompson
 Corny Thompson
-David Thompson*
+David Thompson
 Dijon Thompson
 George Thompson
 Hollis Thompson
 Jack Thompson
 Jason Thompson
-John Thompson*
+John Thompson
 Kevin Thompson
 Klay Thompson
 LaSalle Thompson
@@ -3940,7 +3940,7 @@ Dallas Thornton
 Marcus Thornton
 Otis Thorpe
 Sedale Threatt
-Nate Thurmond*
+Nate Thurmond
 Mel Thurston
 Hal Tidrick
 Dan Tieman
@@ -4012,7 +4012,7 @@ Myles Turner
 Wayne Turner
 Melvin Turpin
 Dave Twardzik
-Jack Twyman*
+Jack Twyman
 B.J. Tyler
 Jeremy Tyler
 Terry Tyler
@@ -4023,7 +4023,7 @@ Ime Udoka
 Beno Udrih
 Roko Ukic
 Tyler Ulis
-Wes Unseld*
+Wes Unseld
 Hal Uplinger
 Kelvin Upshaw
 Jarrod Uthoff
@@ -4099,7 +4099,7 @@ Neal Walk
 Andy Walker
 Antoine Walker
 Brady Walker
-Chet Walker*
+Chet Walker
 Darrell Walker
 Foots Walker
 Henry Walker
@@ -4124,10 +4124,10 @@ Matt Walsh
 Rex Walters
 Paul Walther
 Isaac Walthour
-Bill Walton*
+Bill Walton
 Lloyd Walton
 Luke Walton
-Bobby Wanzer*
+Bobby Wanzer
 Perry Warbington
 Charlie Ward
 Gerry Ward
@@ -4201,7 +4201,7 @@ Walt Wesley
 David West
 Delonte West
 Doug West
-Jerry West*
+Jerry West
 Mario West
 Mark West
 Roland West
@@ -4221,7 +4221,7 @@ Herb White
 Hubie White
 Jahidi White
 James White
-Jo Jo White*
+Jo Jo White
 Okaro White
 Randy White
 Rodney White
@@ -4253,12 +4253,12 @@ Gene Wiley
 Michael Wiley
 Morlon Wiley
 Win Wilfong
-Lenny Wilkens*
+Lenny Wilkens
 Bob Wilkerson
-Jamaal Wilkes*
+Jamaal Wilkes
 James Wilkes
 Damien Wilkins
-Dominique Wilkins*
+Dominique Wilkins
 Eddie Lee Wilkins
 Gerald Wilkins
 Jeff Wilkins
@@ -4400,7 +4400,7 @@ Tom Workman
 Metta World Peace
 Willie Worsley
 Sam Worthen
-James Worthy*
+James Worthy
 Antoine Wright
 Bracey Wright
 Brad Wright
@@ -4423,7 +4423,7 @@ Tony Wroten
 Dennis Wuycik
 A.J. Wynder
 Vincent Yarbrough
-George Yardley*
+George Yardley
 Barry Yates
 Wayne Yates
 Charlie Yelverton
